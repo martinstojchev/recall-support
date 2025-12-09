@@ -14,4 +14,4 @@ You can clear your clipboard history at any time.
 All data remains on your device unless you manually delete it.
 Contact
 For questions about this Privacy Policy, contact:
-martin.stojcev@example.com
+martinstojchev@hotmail.com
